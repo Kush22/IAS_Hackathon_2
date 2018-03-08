@@ -1,0 +1,3 @@
+cd to the folder having the vagrant file.
+use following command: "sudo vagrant up --provision"
+to use vagrant's VM : "sudo vagrant ssh"
